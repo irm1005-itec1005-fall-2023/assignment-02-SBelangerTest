@@ -222,12 +222,17 @@
             margin-bottom: 15rem;
             display: grid;
         }
+        .foot {
+            font-size: 1rem;
+            text-align: center;
+            gap: 1rem;
+        }
         .Q {
             background-color: seagreen;
             color: whitesmoke;
             padding: 3rem;
             padding-left: 3rem;
-            padding-bottom: 3rem;
+            margin-bottom: 3rem;
             text-align: right;
             grid-column-start: 3;
         }
